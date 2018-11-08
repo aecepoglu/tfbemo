@@ -1,0 +1,16 @@
+# [ ] yapilacak
+# [o] yapildi
+# [!] onemli
+
+[ ] walk-cycle
+	[ ] cubuk adam
+		[o] taslak
+		[ ] yuksek kalite
+[ ] idle
+	[ ] cubuk adam
+		[ ] taslak
+		[ ] yuksek kalite
+[ ] run
+	[ ] cubuk adam
+		[ ] taslak
+		[ ] yuksek kalite
